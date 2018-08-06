@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:1f8a0d0956eee163855cb34e738ef9bb38950bf405908d08e7cc5d9a0e7455ee4226da2b686212d5c40b1128f8272cde49b60280d3d8e9c7bf56a056fc18bd43"/>
+        <VersionInfo resourceName="ExtractStoreLatLong" version="SHA-512:17dfe8bdb5ac5b51d71cd25c376aee7869c5a4cb1d297ff612660914441b9cd49056ca8266c11843b156c62f5ed4a1c765aac805d7d54907ced7b609f7955bb4"/>
+        <VersionInfo resourceName="ExtractVariables-Formatted-Address" version="SHA-512:1e290d3947cdad963c73772a46b4eb8f371100745b4bab4f5c6491bfe6e5e76505b234333bfb2b339028391bb7c52f29f5c959e49c3eafd02a38ce50cd65b13e"/>
+        <VersionInfo resourceName="FlowCAlloutSecureBackend" version="SHA-512:3e2138c0e277308f48cbd17b031ae71da20d63a26d3b4d5d993d711ddc0db8b806b5d66aa29c6411a86f46e3d8c79aea7b127dc7c8b11086e7c49eebf65586c3"/>
+        <VersionInfo resourceName="JSON-Threat-Protection-1" version="SHA-512:47406356c2b51aa4ca99d81ecb8a51260aaa88a198d548beeee2221dbbc8ad9a0f769163a34146e8a16d7a8c510564c08a4ed27c59452f3f1c853bdd4c3911a9"/>
+        <VersionInfo resourceName="JavaScript-1" version="SHA-512:5cf0ea15f602024aa350a8b98704ed506054493363f785aaf99b585236be8038d6382fcd6e43c6b93b4f9f475a8663359305396a9f248d2c49e1a71aa7d90ac1"/>
+        <VersionInfo resourceName="JavaScript-2" version="SHA-512:b7c79853dd2a63581113c57451df5a3b39e2a6947294826cfbaf543b0a6cd736fa95e111774244a8303399d03ab96db1dbb21d13600561fd0429281dd00760e9"/>
+        <VersionInfo resourceName="OAuth-v20-1" version="SHA-512:1b035c1b6ba93a87855ac5ba0e8d7f199a0128c754a0914849ce5e0b02338985011a6e46daeb4c150a2c43d7cd66a5c799ee3527d2c556670e34606bd7da791c"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:58e366c0ef05098982f71e8b48e8c9f9cedb4c0afecadba0ee157c6fc09b34c6996b84f1522f3981cb8423b1d81c493f42b8bd571d05906ec444da96439ca0f4"/>
+        <VersionInfo resourceName="Quota-Violation" version="SHA-512:24a0909120cecee431c2c64b86c1de6e0ed7f0dbb41c77c99236906f66e23da852ddcdb7a88c27ab42c9f1728ff0545133d5c1bb0a36404cec1a40e2e4633967"/>
+        <VersionInfo resourceName="Raise-Fault-1" version="SHA-512:980a18882df439a651a48ea686d7a480c20025f19c640a18b8e7f1c63ecf829f8153228396447e577216ce75800d001eaefcd45d63bc9acd2744d1f2a595527d"/>
+        <VersionInfo resourceName="ResponseCacheProducts" version="SHA-512:81c2a9144282a1ac8cbe016e48522b4b245d6f8389fe438cfaf88bf2155abe81c53e85a2c78dcd9de6b39812206b1e0b56c8fda6f0b9404f68206f215e54c826"/>
+        <VersionInfo resourceName="Service-Callout-1" version="SHA-512:2ed87b3bca36f90225a4d95415929b9fc046cc8552a3de0e16bed87ed434a3026dc9424167b027e6d433d8dbefc238b56dcb719bc5a8e9c4a1c9c4d1f8b20bc8"/>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:3d593b20f117b5d038d1a2dafa49ba73c288bc528c42dc426c6affaefeca7893ab826fba4ab8be2c5ef5eef8573695cccf4ff3c5900337a051f44c99ce921037"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:231ec461539cab963434dbba0f1525ddf633c644ef326d0f9313f220069d73dba309a80583e19e6bebdf99b310938e6afa0618f3cc4b343f26925e3fac639663"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:de713d878b3d69c9a0fc83dc8fd704ea6e33043335e7491d1d649da0564f9d7f8473683337fcf88cee4223b4d6040692931833328b5fa933a476a555064b0f24"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:86de4c60525f9a6c25945ba0c215e8b6e576cc390533ca61f60dda7e0db17f99aad7efa07fd46366f2f42968b1b9d1d72f0157e2132dd969f8e09a062f7272d7"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:3d495dce42dee7be0f49cd3dcabb270f736e1ecdad2ab7a8860a7c4ef2d620b1f69fa92a46aa443fcbe6c7792e4c9bf91e442612eef57710156c1c25051129c9"/>
+    </TargetEndpoints>
+</Manifest>

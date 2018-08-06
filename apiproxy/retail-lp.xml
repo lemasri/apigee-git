@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="5" name="retail-lp">
+    <Basepaths>/retail-lp/v1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1531238209413</CreatedAt>
+    <CreatedBy>lemapiniganti@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>retail-lp</DisplayName>
+    <LastModifiedAt>1531406956643</LastModifiedAt>
+    <LastModifiedBy>lemapiniganti@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:dc16d1319888ee40b1ced037ee258318cf68d561f67c5d600959b4c698f13bfa34296eeddca7dbf7f7a874aa44267e2c74107d24487ccaced36ae6bb83bc3708</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>ExtractStoreLatLong</Policy>
+        <Policy>ExtractVariables-Formatted-Address</Policy>
+        <Policy>FlowCAlloutSecureBackend</Policy>
+        <Policy>JSON-Threat-Protection-1</Policy>
+        <Policy>JavaScript-1</Policy>
+        <Policy>JavaScript-2</Policy>
+        <Policy>OAuth-v20-1</Policy>
+        <Policy>Quota-1</Policy>
+        <Policy>Quota-Violation</Policy>
+        <Policy>Raise-Fault-1</Policy>
+        <Policy>ResponseCacheProducts</Policy>
+        <Policy>Service-Callout-1</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://JavaScript-1.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
